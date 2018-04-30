@@ -1,0 +1,32 @@
+<Menu>
+    <location>
+        <ref-title>Metropolia Vanha Maantie 6</ref-title>
+        <ref-url>https://www.sodexo.fi/vanhamaantie</ref-url>
+        <week>
+            <day>
+                <name>maanantai</name>
+                <date>30</date><course>
+                <title_fi>Provencen broilerpataa ja täysjyväriisiä</title_fi>
+                <title_en>Provencal chicken stew with whole grain rice</title_en>
+                <price>2,60 / 5,31 / 6,72</price>
+                <properties>G, M</properties></course>
+                <course>
+                <title_fi>vegaani Tofu-kookos wokkia ja täysjyväriisiä</title_fi>
+                <title_en>vegan Tofu coconut wok with whole grain rice</title_en>
+                <price>2,60 / 5,31 / 6,72</price>
+                <properties>undefined</properties></course>
+                <course>
+                <title_fi>Lounaspatonki tomaatti-mozzarellatäytteellä</title_fi>
+                <title_en>Lunch baguette filled with tomato and mozzarella</title_en>
+                <price>1,84 / 4,30 / 6,72</price>
+                <properties>VL</properties></course>
+                <course>
+                <title_fi>Mango smoothie</title_fi>
+                <title_en>Mango smoothie</title_en>
+                <price>0,55 / 0,65 / 0,75</price>
+                <properties>G, L</properties></course>
+
+            </day>
+        </week>
+    </location>
+</Menu>

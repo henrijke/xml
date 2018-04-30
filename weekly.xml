@@ -1,0 +1,133 @@
+<Menu>
+    <location>
+        <ref-title>Metropolia Vanha Maantie 6</ref-title>
+        <ref-url>https://www.sodexo.fi/vanhamaantie</ref-url>
+        <week>
+            <day>
+                <name>maanantai</name>
+                <date>30</date><course>
+                <title_fi>Provencen broilerpataa ja täysjyväriisiä</title_fi>
+                <title_en>Provencal chicken stew with whole grain rice</title_en>
+                <price>2,60 / 5,31 / 6,72</price>
+                <properties>G, M</properties>
+            </course><course>
+                <title_fi>vegaani Tofu-kookos wokkia ja täysjyväriisiä</title_fi>
+                <title_en>vegan Tofu coconut wok with whole grain rice</title_en>
+                <price>2,60 / 5,31 / 6,72</price>
+                <properties>undefined</properties>
+            </course><course>
+                <title_fi>Lounaspatonki tomaatti-mozzarellatäytteellä</title_fi>
+                <title_en>Lunch baguette filled with tomato and mozzarella</title_en>
+                <price>1,84 / 4,30 / 6,72</price>
+                <properties>VL</properties>
+            </course><course>
+                <title_fi>Mango smoothie</title_fi>
+                <title_en>Mango smoothie</title_en>
+                <price>0,55 / 0,65 / 0,75</price>
+                <properties>G, L</properties>
+            </course>
+        </day>
+        <day>
+            <name>tiistai</name>
+            <date>1</date><course>
+            <title_fi>Hauskaa Vappua!</title_fi>
+            <title_en>Hauskaa Vappua!</title_en>
+            <price>2,60 / 5,31 / 6,72</price>
+            <properties>undefined</properties>
+        </course>
+        </day>
+        <day>
+        <name>keskiviikko</name>
+        <date>2</date><course>
+        <title_fi>Hyvää Pääsiäistä!</title_fi>
+        <title_en>Happy Easter!</title_en>
+        <price>2,60 / 5,31 / 6,72</price>
+        <properties>M</properties>
+        </course><course>
+        <title_fi></title_fi>
+        <title_en>Lunch baguette filled with salmon and tuna</title_en>
+        <price>1,84 / 4,30 / 6,72</price>
+        <properties>undefined</properties>
+        </course>
+        </day>
+        <day>
+        <name>torstai</name>
+    <date>3</date><course>
+    <title_fi>Jauheliha-spagettivuoka</title_fi>
+    <title_en>Mince meat and spaghetti casserole</title_en>
+    <price>2,60 / 5,31 / 6,72</price>
+    <properties>L</properties>
+    </course><course>
+    <title_fi>Kalapyörykät, mintuu-jogurttikastiketta ja kurkumariisiä</title_fi>
+    <title_en>Fish dumplings, mint and youghurt sauce, turmeric rice</title_en>
+    <price>2,60 / 5,31 / 6,72</price>
+    <properties>G, L</properties>
+    </course><course>
+    <title_fi>Pinaattiohukaisia</title_fi>
+    <title_en>Spinach pancakes</title_en>
+    <price>2,60 / 5,31 / 6,72</price>
+    <properties>VL</properties>
+    </course><course>
+    <title_fi>Lounaspatonki BBQ-kinkkutäytteellä</title_fi>
+    <title_en>Lunch baguette BBQ-ham</title_en>
+    <price>1,84 / 4,30 / 6,72</price>
+    <properties>M</properties>
+    </course><course>
+    <title_fi>Porsaanleike, pekonikastiketta, papupaistosta ja lohkoperunoita</title_fi>
+    <title_en>Pork cutlet, bacon sauce, beans and potato wedges</title_en>
+    <price>4,05 / 6,71 / 7,82</price>
+    <properties>M</properties>
+    </course><course>
+    <title_fi>Palsternakkasosekeittoa</title_fi>
+    <title_en>undefined</title_en>
+    <price>1,33 / 3,64 / 6,43</price>
+    <properties>G, L</properties>
+    </course><course>
+    <title_fi>Mangokiisseliä</title_fi>
+    <title_en>Mango kissel</title_en>
+    <price>0,55 / 0,65 / 0,75</price>
+    <properties>G, M</properties>
+    </course>
+        </day>
+    <day>
+    <name>perjantai</name>
+    <date>4</date><course>
+    <title_fi>Broileri Kormaa ja täysjyväriisiä</title_fi>
+    <title_en>undefined</title_en>
+    <price>2,60 / 5,31 / 6,72</price>
+    <properties>G, M</properties>
+    </course><course>
+    <title_fi>Lohikeittoa</title_fi>
+    <title_en>Salmon soup</title_en>
+    <price>2,60 / 5,31 / 6,72</price>
+    <properties>G, VL</properties>
+    </course><course>
+    <title_fi>Pizza Vegetarian</title_fi>
+    <title_en>Pizza Vegetarian</title_en>
+    <price>2,60 / 5,31 / 6,72</price>
+    <properties>L</properties>
+    </course><course>
+    <title_fi>Lounaspatonki feta-tomaattitäytteellä</title_fi>
+    <title_en>Lunch baguette with feta and tomato</title_en>
+    <price>1,84 / 4,30 / 6,72</price>
+    <properties>undefined</properties>
+    </course><course>
+    <title_fi>haudutettua tomaatti-basilikaturskaa ja polentaa</title_fi>
+    <title_en>Poached cod, with tomato and basil, with polenta</title_en>
+    <price>4,05 / 6,71 / 7,82</price>
+    <properties>L</properties>
+    </course><course>
+    <title_fi>Andalusialaista kasviskeittoa</title_fi>
+    <title_en>Andalusian vegetable soup</title_en>
+    <price>1,33 / 3,64 / 6,43</price>
+    <properties>L</properties>
+    </course><course>
+    <title_fi>Mustikkarahkaa</title_fi>
+    <title_en>Blueberry quark</title_en>
+    <price>0,55 / 0,65 / 0,75</price>
+    <properties>G, L</properties>
+    </course>
+        </day>
+        </week>
+    </location>
+</Menu>

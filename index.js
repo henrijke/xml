@@ -111,7 +111,7 @@ const fetchSearch=(restaurant, date, dateAdd,monthAdder)=>{
       <properties>${course.properties}</properties>  
       </course>`
     }
-    courseXML +=`</course>                                                                  
+    courseXML +=`                                                                
     </day>                                                                     
     </week>                                                                    
     </location>                                                                
