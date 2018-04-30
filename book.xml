@@ -1,0 +1,15 @@
+<book>
+    <info>
+        <author>name</author>
+        <title>title</title>
+        <genre>genre</genre>
+        <publishDate>date</publishDate>
+    </info>
+    <content>
+        <chapter>
+            <chapterTitle>title</chapterTitle>
+            <chapterNumber>1</chapterNumber>
+            <chapterContent>dasdasda</chapterContent>
+        </chapter>
+    </content>
+</book>
